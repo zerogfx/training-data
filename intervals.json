@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-24T23:52:04.675658",
+  "generated_at": "2026-04-25T02:48:33.969708",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -528,63 +528,6 @@
           "max_hr": 170,
           "avg_cadence": 91.24324,
           "zone": 7
-        }
-      ]
-    },
-    {
-      "activity_id": "i140124936",
-      "date": "2026-04-10",
-      "type": "Run",
-      "name": "Lauf am Nachmittag",
-      "interval_summary": [
-        "4x 6m50s 134bpm",
-        "1x 68s 135bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "410s@134bpm84rpm",
-          "duration_secs": 388,
-          "avg_hr": 130,
-          "max_hr": 145,
-          "avg_cadence": 85.81676,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "410s@134bpm84rpm",
-          "duration_secs": 385,
-          "avg_hr": 137,
-          "max_hr": 150,
-          "avg_cadence": 85.78442,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "410s@134bpm84rpm",
-          "duration_secs": 431,
-          "avg_hr": 132,
-          "max_hr": 143,
-          "avg_cadence": 84.216286,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "410s@134bpm84rpm",
-          "duration_secs": 434,
-          "avg_hr": 135,
-          "max_hr": 147,
-          "avg_cadence": 82.080605,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "68s@135bpm82rpm",
-          "duration_secs": 68,
-          "avg_hr": 135,
-          "max_hr": 140,
-          "avg_cadence": 81.89706,
-          "zone": 2
         }
       ]
     },
