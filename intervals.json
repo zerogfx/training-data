@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-27T17:07:54.771741",
+  "generated_at": "2026-04-27T18:41:32.586057",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -1440,6 +1440,134 @@
           "avg_hr": 145,
           "max_hr": 180,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i143449197",
+      "date": "2026-04-27",
+      "type": "Ride",
+      "name": "Alc\u00fadia Radfahren",
+      "interval_summary": [
+        "3x 13m17s 110bpm",
+        "5x 10m 115bpm",
+        "3x 17m10s 108bpm",
+        "1x 14m37s 127bpm",
+        "1x 32m34s 114bpm",
+        "1x 47m 101bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "797s@110bpm",
+          "duration_secs": 853,
+          "avg_hr": 104,
+          "max_hr": 122,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@115bpm",
+          "duration_secs": 558,
+          "avg_hr": 114,
+          "max_hr": 121,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@115bpm",
+          "duration_secs": 640,
+          "avg_hr": 115,
+          "max_hr": 129,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@115bpm",
+          "duration_secs": 589,
+          "avg_hr": 119,
+          "max_hr": 142,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1030s@108bpm",
+          "duration_secs": 1042,
+          "avg_hr": 109,
+          "max_hr": 144,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "877s@127bpm",
+          "duration_secs": 877,
+          "avg_hr": 127,
+          "max_hr": 148,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1954s@114bpm",
+          "duration_secs": 1954,
+          "avg_hr": 114,
+          "max_hr": 176,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "797s@110bpm",
+          "duration_secs": 756,
+          "avg_hr": 114,
+          "max_hr": 162,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1030s@108bpm",
+          "duration_secs": 1091,
+          "avg_hr": 114,
+          "max_hr": 139,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1030s@108bpm",
+          "duration_secs": 958,
+          "avg_hr": 101,
+          "max_hr": 137,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "797s@110bpm",
+          "duration_secs": 782,
+          "avg_hr": 113,
+          "max_hr": 132,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "2820s@101bpm",
+          "duration_secs": 2820,
+          "avg_hr": 101,
+          "max_hr": 128,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@115bpm",
+          "duration_secs": 621,
+          "avg_hr": 117,
+          "max_hr": 130,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "600s@115bpm",
+          "duration_secs": 590,
+          "avg_hr": 110,
+          "max_hr": 131,
+          "zone": 1
         }
       ]
     }
