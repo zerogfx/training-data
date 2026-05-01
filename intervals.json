@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-01T09:13:26.234708",
+  "generated_at": "2026-05-01T10:46:12.981533",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -1397,6 +1397,205 @@
           "max_hr": 132,
           "avg_cadence": 84.76811,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i144515838",
+      "date": "2026-05-01",
+      "type": "Ride",
+      "name": "M\u00fcnchen Radfahren",
+      "interval_summary": [
+        "4x 30s 319w",
+        "1x 52s 296w",
+        "1x 51s 350w",
+        "1x 61s 325w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3022,
+          "avg_power": 138,
+          "max_power": 775,
+          "avg_hr": 117,
+          "max_hr": 139,
+          "avg_cadence": 57.061096,
+          "zone": 1,
+          "training_load": 24.693565
+        },
+        {
+          "type": "WORK",
+          "label": "30s@319w78rpm",
+          "duration_secs": 28,
+          "avg_power": 320,
+          "max_power": 454,
+          "avg_hr": 140,
+          "max_hr": 144,
+          "avg_cadence": 81.25,
+          "zone": 6,
+          "training_load": 0.8956065,
+          "decoupling": 15.364737
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1161,
+          "avg_power": 169,
+          "max_power": 503,
+          "avg_hr": 122,
+          "max_hr": 143,
+          "avg_cadence": 58.22653,
+          "zone": 2,
+          "training_load": 17.586746,
+          "decoupling": -4.9067287
+        },
+        {
+          "type": "WORK",
+          "label": "52s@296w74rpm",
+          "duration_secs": 52,
+          "avg_power": 296,
+          "max_power": 418,
+          "avg_hr": 147,
+          "max_hr": 155,
+          "avg_cadence": 74.19231,
+          "zone": 5,
+          "training_load": 1.7846367,
+          "decoupling": 10.564562
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 679,
+          "avg_power": 71,
+          "max_power": 333,
+          "avg_hr": 107,
+          "max_hr": 156,
+          "avg_cadence": 34.003635,
+          "zone": 1,
+          "training_load": 2.7543454
+        },
+        {
+          "type": "WORK",
+          "label": "30s@319w78rpm",
+          "duration_secs": 33,
+          "avg_power": 339,
+          "max_power": 375,
+          "avg_hr": 131,
+          "max_hr": 143,
+          "avg_cadence": 61.21212,
+          "zone": 6,
+          "training_load": 1.1404092,
+          "decoupling": 6.6907387
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1103,
+          "avg_power": 145,
+          "max_power": 452,
+          "avg_hr": 118,
+          "max_hr": 149,
+          "avg_cadence": 57.42611,
+          "zone": 2,
+          "training_load": 16.190115,
+          "decoupling": -1.6628606
+        },
+        {
+          "type": "WORK",
+          "label": "51s@350w71rpm",
+          "duration_secs": 51,
+          "avg_power": 350,
+          "max_power": 421,
+          "avg_hr": 147,
+          "max_hr": 157,
+          "avg_cadence": 71.37255,
+          "zone": 6,
+          "training_load": 2.199941,
+          "decoupling": 5.656862
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1029,
+          "avg_power": 146,
+          "max_power": 589,
+          "avg_hr": 122,
+          "max_hr": 158,
+          "avg_cadence": 51.94292,
+          "zone": 2,
+          "training_load": 13.53201,
+          "decoupling": 2.002161
+        },
+        {
+          "type": "WORK",
+          "label": "30s@319w78rpm",
+          "duration_secs": 28,
+          "avg_power": 295,
+          "max_power": 403,
+          "avg_hr": 154,
+          "max_hr": 156,
+          "avg_cadence": 80.39286,
+          "zone": 5,
+          "training_load": 1.1128321,
+          "decoupling": 17.01428
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 768,
+          "avg_power": 140,
+          "max_power": 658,
+          "avg_hr": 124,
+          "max_hr": 156,
+          "avg_cadence": 59.934895,
+          "zone": 1,
+          "training_load": 10.568521,
+          "decoupling": -14.143551
+        },
+        {
+          "type": "WORK",
+          "label": "61s@325w89rpm",
+          "duration_secs": 61,
+          "avg_power": 325,
+          "max_power": 411,
+          "avg_hr": 143,
+          "max_hr": 159,
+          "avg_cadence": 88.540985,
+          "zone": 6,
+          "training_load": 2.2709818,
+          "decoupling": 13.375096
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 109,
+          "avg_power": 180,
+          "max_power": 332,
+          "avg_hr": 138,
+          "max_hr": 158,
+          "avg_cadence": 79.97248,
+          "zone": 2,
+          "training_load": 2.0703998,
+          "decoupling": -60.870533
+        },
+        {
+          "type": "WORK",
+          "label": "30s@319w78rpm",
+          "duration_secs": 31,
+          "avg_power": 321,
+          "max_power": 450,
+          "avg_hr": 150,
+          "max_hr": 157,
+          "avg_cadence": 89.645164,
+          "zone": 6,
+          "training_load": 1.2005749,
+          "decoupling": 16.381968
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2821,
+          "avg_power": 139,
+          "max_power": 698,
+          "avg_hr": 126,
+          "max_hr": 158,
+          "avg_cadence": 67.378525,
+          "zone": 1,
+          "training_load": 30.912916,
+          "decoupling": -4.895145
         }
       ]
     }
