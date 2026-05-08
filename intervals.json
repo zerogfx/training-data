@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-08T09:55:26.643519",
+  "generated_at": "2026-05-08T11:22:34.284044",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -1234,6 +1234,66 @@
           "zone": 1,
           "training_load": 2.2181668,
           "decoupling": -1.6379704
+        }
+      ]
+    },
+    {
+      "activity_id": "i146441525",
+      "date": "2026-05-08",
+      "type": "TrailRun",
+      "name": "Ellmau Trailrunning",
+      "interval_summary": [
+        "1x 12m30s 117bpm",
+        "1x 9m31s 117bpm",
+        "1x 16m38s 132bpm",
+        "1x 11m44s 139bpm",
+        "1x 98s 119bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "750s@117bpm69rpm",
+          "duration_secs": 750,
+          "avg_hr": 117,
+          "max_hr": 141,
+          "avg_cadence": 69.10621,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "571s@117bpm77rpm",
+          "duration_secs": 571,
+          "avg_hr": 117,
+          "max_hr": 131,
+          "avg_cadence": 77.39054,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "998s@132bpm76rpm",
+          "duration_secs": 998,
+          "avg_hr": 132,
+          "max_hr": 157,
+          "avg_cadence": 75.53024,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "704s@139bpm59rpm",
+          "duration_secs": 704,
+          "avg_hr": 139,
+          "max_hr": 158,
+          "avg_cadence": 59.18892,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "98s@119bpm66rpm",
+          "duration_secs": 98,
+          "avg_hr": 119,
+          "max_hr": 125,
+          "avg_cadence": 65.83673,
+          "zone": 1
         }
       ]
     }
