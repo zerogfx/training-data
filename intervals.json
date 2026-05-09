@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-09T14:55:45.145242",
+  "generated_at": "2026-05-09T15:57:55.881235",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -1558,6 +1558,26 @@
           "avg_hr": 136,
           "max_hr": 139,
           "avg_cadence": 90.544304,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i146757112",
+      "date": "2026-05-09",
+      "type": "Swim",
+      "name": "Schwimmbad",
+      "interval_summary": [
+        "1x 500m 115bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "713s@115bpm24rpm",
+          "duration_secs": 713,
+          "avg_hr": 115,
+          "max_hr": 128,
+          "avg_cadence": 24.035063,
           "zone": 1
         }
       ]
