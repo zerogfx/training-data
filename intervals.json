@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-24T16:03:30.003001",
+  "generated_at": "2026-05-24T17:16:35.497167",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -887,6 +887,42 @@
           "max_hr": 153,
           "avg_cadence": 84.375,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i151145666",
+      "date": "2026-05-24",
+      "type": "Ride",
+      "name": "M\u00fcnchen Radfahren",
+      "interval_summary": [
+        "2x 18m53s 96bpm",
+        "1x 5m50s 77bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "1133s@96bpm",
+          "duration_secs": 1099,
+          "avg_hr": 99,
+          "max_hr": 123,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1133s@96bpm",
+          "duration_secs": 1167,
+          "avg_hr": 92,
+          "max_hr": 114,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "350s@77bpm",
+          "duration_secs": 350,
+          "avg_hr": 77,
+          "max_hr": 98,
+          "zone": 1
         }
       ]
     }
