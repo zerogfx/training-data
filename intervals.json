@@ -1,83 +1,10 @@
 {
-  "generated_at": "2026-06-07T23:19:32.887845",
+  "generated_at": "2026-06-08T01:41:13.335765",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i151145666",
-      "date": "2026-05-24",
-      "type": "Ride",
-      "name": "M\u00fcnchen Radfahren",
-      "interval_summary": [
-        "2x 18m53s 96bpm",
-        "1x 5m50s 77bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "1133s@96bpm",
-          "duration_secs": 1099,
-          "avg_hr": 99,
-          "max_hr": 123,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "1133s@96bpm",
-          "duration_secs": 1167,
-          "avg_hr": 92,
-          "max_hr": 114,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "350s@77bpm",
-          "duration_secs": 350,
-          "avg_hr": 77,
-          "max_hr": 98,
-          "zone": 1
-        }
-      ]
-    },
-    {
-      "activity_id": "i151177956",
-      "date": "2026-05-24",
-      "type": "Ride",
-      "name": "M\u00fcnchen Radfahren",
-      "interval_summary": [
-        "1x 18m43s 110bpm",
-        "1x 15m49s 114bpm",
-        "1x 4m4s 111bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "1123s@110bpm",
-          "duration_secs": 1123,
-          "avg_hr": 110,
-          "max_hr": 147,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "949s@114bpm",
-          "duration_secs": 949,
-          "avg_hr": 114,
-          "max_hr": 128,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "244s@111bpm",
-          "duration_secs": 244,
-          "avg_hr": 111,
-          "max_hr": 119,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i151289096",
       "date": "2026-05-25",
