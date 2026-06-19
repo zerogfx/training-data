@@ -1,68 +1,10 @@
 {
-  "generated_at": "2026-06-18T22:21:36.866388",
+  "generated_at": "2026-06-19T00:10:31.703948",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i154155608",
-      "date": "2026-06-04",
-      "type": "Run",
-      "name": "M\u00fcnchen Laufen",
-      "interval_summary": [
-        "3x 6m16s 141bpm",
-        "1x 7m24s 135bpm",
-        "1x 4m21s 142bpm"
-      ],
-      "intervals": [
-        {
-          "type": "WORK",
-          "label": "376s@141bpm87rpm",
-          "duration_secs": 393,
-          "avg_hr": 137,
-          "max_hr": 154,
-          "avg_cadence": 85.96947,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "444s@135bpm86rpm",
-          "duration_secs": 444,
-          "avg_hr": 135,
-          "max_hr": 147,
-          "avg_cadence": 86.30933,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "376s@141bpm87rpm",
-          "duration_secs": 369,
-          "avg_hr": 144,
-          "max_hr": 160,
-          "avg_cadence": 86.677505,
-          "zone": 2
-        },
-        {
-          "type": "WORK",
-          "label": "376s@141bpm87rpm",
-          "duration_secs": 366,
-          "avg_hr": 142,
-          "max_hr": 151,
-          "avg_cadence": 87.21311,
-          "zone": 1
-        },
-        {
-          "type": "WORK",
-          "label": "261s@142bpm86rpm",
-          "duration_secs": 261,
-          "avg_hr": 142,
-          "max_hr": 146,
-          "avg_cadence": 86.498085,
-          "zone": 1
-        }
-      ]
-    },
     {
       "activity_id": "i155203067",
       "date": "2026-06-08",
