@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T07:57:52.622080",
+  "generated_at": "2026-06-20T10:38:02.516421",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -1034,6 +1034,79 @@
           "avg_hr": 148,
           "max_hr": 150,
           "avg_cadence": 85.19231,
+          "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i158848513",
+      "date": "2026-06-20",
+      "type": "MountainBikeRide",
+      "name": "Benediktbeuern Mountainbiken",
+      "interval_summary": [
+        "2x 12m21s 122bpm",
+        "1x 36s 100bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "741s@122bpm",
+          "duration_secs": 748,
+          "avg_hr": 122,
+          "max_hr": 161,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "741s@122bpm",
+          "duration_secs": 733,
+          "avg_hr": 121,
+          "max_hr": 157,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "36s@100bpm",
+          "duration_secs": 36,
+          "avg_hr": 100,
+          "max_hr": 103,
+          "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i158848263",
+      "date": "2026-06-20",
+      "type": "MountainBikeRide",
+      "name": "Benediktbeuern Mountainbiken",
+      "interval_summary": [
+        "1x 58m39s 127bpm",
+        "1x 26m43s 116bpm",
+        "1x 2m50s 147bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "3519s@127bpm",
+          "duration_secs": 3519,
+          "avg_hr": 127,
+          "max_hr": 149,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1603s@116bpm",
+          "duration_secs": 1603,
+          "avg_hr": 116,
+          "max_hr": 140,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "170s@147bpm",
+          "duration_secs": 170,
+          "avg_hr": 147,
+          "max_hr": 152,
           "zone": 2
         }
       ]
