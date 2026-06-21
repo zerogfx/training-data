@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T08:48:57.540472",
+  "generated_at": "2026-06-21T11:47:33.748605",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -1195,6 +1195,26 @@
           "max_hr": 158,
           "avg_cadence": 50.840908,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i159082617",
+      "date": "2026-06-21",
+      "type": "Ride",
+      "name": "M\u00fcnchen Rennradfahren",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 6196,
+          "avg_power": 125,
+          "max_power": 591,
+          "avg_hr": 114,
+          "max_hr": 150,
+          "avg_cadence": 71.109505,
+          "zone": 1,
+          "training_load": 48.241985
         }
       ]
     }
