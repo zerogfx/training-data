@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T17:30:23.845259",
+  "generated_at": "2026-06-25T19:29:42.453073",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -1185,6 +1185,149 @@
           "zone": 1,
           "training_load": 32.039104,
           "decoupling": -2.1499264
+        }
+      ]
+    },
+    {
+      "activity_id": "i160313707",
+      "date": "2026-06-25",
+      "type": "Ride",
+      "name": "Bressanone Rennradfahren",
+      "interval_summary": [
+        "1x 11s 585w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 3039,
+          "avg_power": 107,
+          "max_power": 663,
+          "avg_hr": 118,
+          "max_hr": 142,
+          "avg_cadence": 55.65543,
+          "zone": 1,
+          "training_load": 17.561071,
+          "decoupling": -8.284031
+        },
+        {
+          "type": "WORK",
+          "label": "11s@585w88rpm",
+          "duration_secs": 11,
+          "avg_power": 585,
+          "max_power": 737,
+          "avg_hr": 108,
+          "max_hr": 113,
+          "avg_cadence": 88.454544,
+          "zone": 7,
+          "training_load": 0.16836745,
+          "decoupling": -5.2885866
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4671,
+          "avg_power": 108,
+          "max_power": 632,
+          "avg_hr": 119,
+          "max_hr": 150,
+          "avg_cadence": 50.727158,
+          "zone": 1,
+          "training_load": 31.378452
+        }
+      ]
+    },
+    {
+      "activity_id": "i160327839",
+      "date": "2026-06-25",
+      "type": "Ride",
+      "name": "Brennero Rennradfahren",
+      "interval_summary": [
+        "1x 34s 417w",
+        "2x 10s 432w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 5439,
+          "avg_power": 51,
+          "max_power": 414,
+          "avg_hr": 91,
+          "max_hr": 139,
+          "avg_cadence": 35.34074,
+          "zone": 1,
+          "training_load": 7.5349636
+        },
+        {
+          "type": "WORK",
+          "label": "34s@417w75rpm",
+          "duration_secs": 34,
+          "avg_power": 417,
+          "max_power": 509,
+          "avg_hr": 132,
+          "max_hr": 152,
+          "avg_cadence": 74.5,
+          "zone": 7,
+          "training_load": 1.7310717,
+          "decoupling": 18.270206
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4182,
+          "avg_power": 47,
+          "max_power": 419,
+          "avg_hr": 98,
+          "max_hr": 158,
+          "avg_cadence": 25.50687,
+          "zone": 1,
+          "training_load": 8.424295
+        },
+        {
+          "type": "WORK",
+          "label": "10s@432w66rpm",
+          "duration_secs": 9,
+          "avg_power": 450,
+          "max_power": 538,
+          "avg_hr": 73,
+          "max_hr": 73,
+          "avg_cadence": 53.77778,
+          "zone": 7,
+          "training_load": 0.055950444,
+          "decoupling": -9.91223
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2363,
+          "avg_power": 106,
+          "max_power": 746,
+          "avg_hr": 73,
+          "max_hr": 73,
+          "avg_cadence": 60.837414,
+          "zone": 1,
+          "training_load": 22.325891,
+          "decoupling": -6.7580757
+        },
+        {
+          "type": "WORK",
+          "label": "10s@432w66rpm",
+          "duration_secs": 11,
+          "avg_power": 414,
+          "max_power": 491,
+          "avg_hr": 73,
+          "max_hr": 73,
+          "avg_cadence": 77.90909,
+          "zone": 7,
+          "training_load": 0.13372123,
+          "decoupling": -21.497845
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1182,
+          "avg_power": 93,
+          "max_power": 484,
+          "avg_hr": 73,
+          "max_hr": 73,
+          "avg_cadence": 52.27864,
+          "zone": 1,
+          "training_load": 8.263669
         }
       ]
     }
