@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T03:55:54.457002",
+  "generated_at": "2026-07-06T08:26:04.564585",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -435,6 +435,63 @@
           "max_hr": 145,
           "avg_cadence": 85.97842,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i163136051",
+      "date": "2026-07-06",
+      "type": "Run",
+      "name": "Malcesine Laufen",
+      "interval_summary": [
+        "1x 6m54s 128bpm",
+        "2x 7m56s 131bpm",
+        "1x 5m19s 143bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "414s@128bpm81rpm",
+          "duration_secs": 414,
+          "avg_hr": 128,
+          "max_hr": 139,
+          "avg_cadence": 80.97263,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 137,
+          "max_hr": 137,
+          "avg_cadence": 87.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "476s@131bpm82rpm",
+          "duration_secs": 461,
+          "avg_hr": 129,
+          "max_hr": 143,
+          "avg_cadence": 78.191444,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "476s@131bpm82rpm",
+          "duration_secs": 490,
+          "avg_hr": 133,
+          "max_hr": 143,
+          "avg_cadence": 85.69873,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "319s@143bpm82rpm",
+          "duration_secs": 319,
+          "avg_hr": 143,
+          "max_hr": 155,
+          "avg_cadence": 82.32973,
+          "zone": 2
         }
       ]
     }
