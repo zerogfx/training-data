@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-11T19:52:28.684006",
+  "generated_at": "2026-07-11T20:54:02.000357",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -505,6 +505,74 @@
           "zone": 1,
           "training_load": 19.77848,
           "decoupling": -0.10225643
+        }
+      ]
+    },
+    {
+      "activity_id": "i164839838",
+      "date": "2026-07-11",
+      "type": "Ride",
+      "name": "Stra\u00dflach-Dingharting Rennradfahren",
+      "interval_summary": [
+        "1x 51s 325w"
+      ],
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 4,
+          "avg_power": 196,
+          "max_power": 289,
+          "avg_hr": 80,
+          "max_hr": 82,
+          "avg_cadence": 55.666668,
+          "zone": 3,
+          "decoupling": -8.200341
+        },
+        {
+          "type": "WORK",
+          "label": "51s@325w72rpm",
+          "duration_secs": 51,
+          "avg_power": 325,
+          "max_power": 463,
+          "avg_hr": 112,
+          "max_hr": 137,
+          "avg_cadence": 72.09804,
+          "zone": 6,
+          "training_load": 1.6125743,
+          "decoupling": 31.540821
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2572,
+          "avg_power": 112,
+          "max_power": 564,
+          "avg_hr": 129,
+          "max_hr": 171,
+          "avg_cadence": 69.3056,
+          "zone": 1,
+          "training_load": 22.232018,
+          "decoupling": -5.2536507
+        }
+      ]
+    },
+    {
+      "activity_id": "i164840080",
+      "date": "2026-07-11",
+      "type": "Ride",
+      "name": "M\u00fcnchen Rennradfahren",
+      "interval_summary": null,
+      "intervals": [
+        {
+          "type": "RECOVERY",
+          "duration_secs": 2673,
+          "avg_power": 152,
+          "max_power": 531,
+          "avg_hr": 126,
+          "max_hr": 142,
+          "avg_cadence": 79.21321,
+          "zone": 2,
+          "training_load": 30.44916,
+          "decoupling": 13.361332
         }
       ]
     }
