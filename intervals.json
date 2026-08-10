@@ -1,105 +1,10 @@
 {
-  "generated_at": "2026-08-09T23:34:18.323987",
+  "generated_at": "2026-08-10T00:35:01.936868",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
   "retention_days": 14,
   "activities": [
-    {
-      "activity_id": "i169502598",
-      "date": "2026-07-26",
-      "type": "Ride",
-      "name": "Starnberg (Gemfr. Gebiet) Rennradfahren",
-      "interval_summary": [
-        "1x 23s 462w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 3165,
-          "avg_power": 93,
-          "max_power": 799,
-          "avg_hr": 103,
-          "max_hr": 149,
-          "avg_cadence": 44.99303,
-          "zone": 1,
-          "training_load": 24.751879,
-          "decoupling": -75.17579
-        },
-        {
-          "type": "WORK",
-          "label": "23s@462w75rpm",
-          "duration_secs": 23,
-          "avg_power": 462,
-          "max_power": 567,
-          "avg_hr": 106,
-          "max_hr": 128,
-          "avg_cadence": 74.73913,
-          "zone": 7,
-          "training_load": 0.6687163,
-          "decoupling": 12.214074
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 165,
-          "avg_power": 20,
-          "max_power": 419,
-          "avg_hr": 108,
-          "max_hr": 148,
-          "avg_cadence": 11.413462,
-          "zone": 1,
-          "training_load": 2.1284468
-        }
-      ]
-    },
-    {
-      "activity_id": "i169502481",
-      "date": "2026-07-26",
-      "type": "Ride",
-      "name": "Inning a. Ammersee Rennradfahren",
-      "interval_summary": [
-        "1x 16s 405w"
-      ],
-      "intervals": [
-        {
-          "type": "RECOVERY",
-          "duration_secs": 2371,
-          "avg_power": 131,
-          "max_power": 527,
-          "avg_hr": 111,
-          "max_hr": 140,
-          "avg_cadence": 64.05324,
-          "zone": 1,
-          "training_load": 23.038298,
-          "decoupling": 9.038389
-        },
-        {
-          "type": "WORK",
-          "label": "16s@405w101rpm",
-          "duration_secs": 16,
-          "avg_power": 405,
-          "max_power": 574,
-          "avg_hr": 116,
-          "max_hr": 130,
-          "avg_cadence": 101.1875,
-          "zone": 7,
-          "training_load": 0.40763313,
-          "decoupling": 20.111408
-        },
-        {
-          "type": "RECOVERY",
-          "duration_secs": 1886,
-          "avg_power": 102,
-          "max_power": 493,
-          "avg_hr": 108,
-          "max_hr": 150,
-          "avg_cadence": 62.130672,
-          "zone": 1,
-          "training_load": 17.83378,
-          "decoupling": -1.9937531
-        }
-      ]
-    },
     {
       "activity_id": "i170163581",
       "date": "2026-07-28",
