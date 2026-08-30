@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-30T11:33:07.943335",
+  "generated_at": "2026-08-30T15:28:32.794548",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -756,6 +756,145 @@
           "avg_hr": 148,
           "max_hr": 149,
           "avg_cadence": 86.0,
+          "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i181313448",
+      "date": "2026-08-30",
+      "type": "MountainBikeRide",
+      "name": "Bad Kohlgrub Mountainbiken",
+      "interval_summary": [
+        "1x 58m6s 137bpm",
+        "1x 1h38m 121bpm",
+        "1x 12m57s 95bpm",
+        "1x 19m21s 131bpm",
+        "1x 3m21s 147bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "3486s@137bpm",
+          "duration_secs": 3486,
+          "avg_hr": 137,
+          "max_hr": 174,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "5927s@121bpm",
+          "duration_secs": 5927,
+          "avg_hr": 121,
+          "max_hr": 171,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "777s@95bpm",
+          "duration_secs": 777,
+          "avg_hr": 95,
+          "max_hr": 135,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "1161s@131bpm",
+          "duration_secs": 1161,
+          "avg_hr": 131,
+          "max_hr": 156,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "201s@147bpm",
+          "duration_secs": 201,
+          "avg_hr": 147,
+          "max_hr": 158,
+          "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i181312680",
+      "date": "2026-08-29",
+      "type": "Run",
+      "name": "M\u00fcnchen Laufen",
+      "interval_summary": [
+        "5x 5m56s 140bpm",
+        "1x 7m33s 136bpm",
+        "1x 2s 144bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "356s@140bpm88rpm",
+          "duration_secs": 365,
+          "avg_hr": 135,
+          "max_hr": 144,
+          "avg_cadence": 85.60274,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 143,
+          "max_hr": 143,
+          "avg_cadence": 88.0,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "453s@136bpm87rpm",
+          "duration_secs": 453,
+          "avg_hr": 136,
+          "max_hr": 143,
+          "avg_cadence": 86.51532,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "356s@140bpm88rpm",
+          "duration_secs": 354,
+          "avg_hr": 141,
+          "max_hr": 145,
+          "avg_cadence": 88.80226,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "356s@140bpm88rpm",
+          "duration_secs": 348,
+          "avg_hr": 142,
+          "max_hr": 146,
+          "avg_cadence": 88.005745,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "356s@140bpm88rpm",
+          "duration_secs": 349,
+          "avg_hr": 142,
+          "max_hr": 146,
+          "avg_cadence": 88.30373,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "356s@140bpm88rpm",
+          "duration_secs": 366,
+          "avg_hr": 140,
+          "max_hr": 147,
+          "avg_cadence": 86.79765,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "2s@144bpm89rpm",
+          "duration_secs": 2,
+          "avg_hr": 144,
+          "max_hr": 144,
+          "avg_cadence": 88.5,
           "zone": 2
         }
       ]
