@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-17T15:40:39.804756",
+  "generated_at": "2026-10-17T17:57:07.468528",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -701,6 +701,72 @@
           "max_hr": 147,
           "avg_cadence": 87.45923,
           "zone": 1
+        }
+      ]
+    },
+    {
+      "activity_id": "i198378018",
+      "date": "2026-10-17",
+      "type": "VirtualRun",
+      "name": "Laufbandtraining",
+      "interval_summary": [
+        "1x 6m36s 126bpm",
+        "3x 5m22s 142bpm",
+        "1x 4m20s 144bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "396s@126bpm78rpm",
+          "duration_secs": 396,
+          "avg_hr": 126,
+          "max_hr": 137,
+          "avg_cadence": 77.742424,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 136,
+          "max_hr": 136,
+          "avg_cadence": 86.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "322s@142bpm84rpm",
+          "duration_secs": 331,
+          "avg_hr": 139,
+          "max_hr": 145,
+          "avg_cadence": 84.71601,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "322s@142bpm84rpm",
+          "duration_secs": 315,
+          "avg_hr": 143,
+          "max_hr": 146,
+          "avg_cadence": 84.333336,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "322s@142bpm84rpm",
+          "duration_secs": 320,
+          "avg_hr": 143,
+          "max_hr": 146,
+          "avg_cadence": 84.11562,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "260s@144bpm84rpm",
+          "duration_secs": 260,
+          "avg_hr": 144,
+          "max_hr": 149,
+          "avg_cadence": 84.38461,
+          "zone": 2
         }
       ]
     }
