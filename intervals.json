@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T14:55:38.152005",
+  "generated_at": "2026-10-19T20:27:04.554067",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -701,6 +701,92 @@
           "max_hr": 149,
           "avg_cadence": 84.38461,
           "zone": 2
+        }
+      ]
+    },
+    {
+      "activity_id": "i199087968",
+      "date": "2026-10-19",
+      "type": "Run",
+      "name": "Plettenberg Bay Laufen",
+      "interval_summary": [
+        "1x 8m39s 109bpm",
+        "5x 6m4s 146bpm",
+        "1x 11m30s 142bpm",
+        "1x 18m36s 163bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "519s@109bpm83rpm",
+          "duration_secs": 519,
+          "avg_hr": 109,
+          "max_hr": 130,
+          "avg_cadence": 82.8877,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "364s@146bpm86rpm",
+          "duration_secs": 368,
+          "avg_hr": 138,
+          "max_hr": 149,
+          "avg_cadence": 85.39307,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "364s@146bpm86rpm",
+          "duration_secs": 366,
+          "avg_hr": 148,
+          "max_hr": 170,
+          "avg_cadence": 86.04918,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "364s@146bpm86rpm",
+          "duration_secs": 362,
+          "avg_hr": 146,
+          "max_hr": 158,
+          "avg_cadence": 86.05525,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "690s@142bpm83rpm",
+          "duration_secs": 690,
+          "avg_hr": 142,
+          "max_hr": 153,
+          "avg_cadence": 83.32773,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "364s@146bpm86rpm",
+          "duration_secs": 354,
+          "avg_hr": 149,
+          "max_hr": 159,
+          "avg_cadence": 87.03955,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "364s@146bpm86rpm",
+          "duration_secs": 369,
+          "avg_hr": 151,
+          "max_hr": 173,
+          "avg_cadence": 87.138214,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "1116s@163bpm77rpm",
+          "duration_secs": 1116,
+          "avg_hr": 163,
+          "max_hr": 176,
+          "avg_cadence": 77.2967,
+          "zone": 4
         }
       ]
     }
