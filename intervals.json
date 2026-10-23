@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T06:31:30.718822",
+  "generated_at": "2026-10-23T12:09:48.508287",
   "version": "3.103",
   "script_hash": "504417168730",
   "scan_hours": 72,
@@ -637,6 +637,92 @@
           "max_hr": 176,
           "avg_cadence": 77.2967,
           "zone": 4
+        }
+      ]
+    },
+    {
+      "activity_id": "i200694627",
+      "date": "2026-10-23",
+      "type": "Run",
+      "name": "Stellenbosch Laufen",
+      "interval_summary": [
+        "3x 6m2s 128bpm",
+        "1x 8m48s 142bpm",
+        "1x 6m57s 144bpm",
+        "1x 11m52s 145bpm",
+        "1x 4m34s 152bpm"
+      ],
+      "intervals": [
+        {
+          "type": "WORK",
+          "label": "362s@128bpm84rpm",
+          "duration_secs": 360,
+          "avg_hr": 118,
+          "max_hr": 133,
+          "avg_cadence": 83.638885,
+          "zone": 1
+        },
+        {
+          "type": "RECOVERY",
+          "duration_secs": 1,
+          "avg_hr": 124,
+          "max_hr": 124,
+          "avg_cadence": 86.0,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "528s@142bpm80rpm",
+          "duration_secs": 528,
+          "avg_hr": 142,
+          "max_hr": 155,
+          "avg_cadence": 79.736595,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "362s@128bpm84rpm",
+          "duration_secs": 361,
+          "avg_hr": 129,
+          "max_hr": 144,
+          "avg_cadence": 84.04432,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "362s@128bpm84rpm",
+          "duration_secs": 366,
+          "avg_hr": 136,
+          "max_hr": 148,
+          "avg_cadence": 85.39071,
+          "zone": 1
+        },
+        {
+          "type": "WORK",
+          "label": "417s@144bpm84rpm",
+          "duration_secs": 417,
+          "avg_hr": 144,
+          "max_hr": 156,
+          "avg_cadence": 84.101265,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "712s@145bpm79rpm",
+          "duration_secs": 712,
+          "avg_hr": 145,
+          "max_hr": 161,
+          "avg_cadence": 78.52791,
+          "zone": 2
+        },
+        {
+          "type": "WORK",
+          "label": "274s@152bpm82rpm",
+          "duration_secs": 274,
+          "avg_hr": 152,
+          "max_hr": 163,
+          "avg_cadence": 81.61679,
+          "zone": 3
         }
       ]
     }
